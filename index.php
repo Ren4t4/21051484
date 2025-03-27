@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hola Mundo</title>
+    <title>Hola a todos y todas, que tengan un excelente día/title>
     <style>
         body {
             font-family: Arial, sans-serif;
