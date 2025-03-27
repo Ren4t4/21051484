@@ -15,6 +15,6 @@
     </style>
 </head>
 <body>
-    <h1><?php echo "Hola Mundo"; ?></h1>
+    <h1><?php echo "Hola a todos y todas, que tengan un excelente día"; ?></h1>
 </body>
 </html>
